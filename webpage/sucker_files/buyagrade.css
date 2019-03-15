@@ -23,11 +23,4 @@ h1, h2 {
 input[type="submit"] {
     font-size: 2em;
     width: 100%;
-    background-color: lightgrey;
-}
-input[type="text"] {
-    background-color: lightgrey;
-}
-input[name="section"] {
-    background-color: lightgrey;   
 }
